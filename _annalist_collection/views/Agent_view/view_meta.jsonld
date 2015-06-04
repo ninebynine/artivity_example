@@ -1,0 +1,31 @@
+{
+  "annal:view_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "Entity_id"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "Entity_label"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "Entity_comment"
+    }
+  ],
+  "rdfs:label": "Agent view",
+  "rdfs:comment": "Form for displaying and editing prov:Activity data",
+  "annal:open_view": true,
+  "annal:type_id": "_view",
+  "annal:record_type": "prov:Activity",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/_view/Agent_view/",
+  "annal:id": "Agent_view",
+  "@id": "./",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:type": "annal:View"
+}

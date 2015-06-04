@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "PROV agent",
+  "rdfs:comment": "An prov:Agent is something that bears some form of responsibility for an activity taking place, for the existence of an entity, or for another agent's activity.\r\n",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:uri": "prov:Agent",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/_type/Agent/",
+  "annal:type_list": "Agent_list",
+  "annal:id": "Agent",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "Agent_view"
+}

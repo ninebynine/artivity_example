@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Application: Inkscape desktop",
+  "rdfs:comment": "application://inkscape.desktop\r\n",
+  "annal:type_id": "Agent",
+  "annal:id": "inkscape_desktop",
+  "@id": "./",
+  "@type": [
+    "prov:Agent",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

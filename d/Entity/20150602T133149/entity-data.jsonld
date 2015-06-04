@@ -1,0 +1,17 @@
+{
+  "rdfs:label": "icons.svg at 2015-06-02 14:31:49",
+  "rdfs:comment": "icons.svg at 2015-06-02 14:31:49\r\n\r\n",
+  "prov:wasAttributedTo": "inkscape_desktop",
+  "prov:specialization_of": "file:///home/sebastian/Dropbox/Semiodesk/Kunden/WSCAD/LicenseStarter/Icons.svg",
+  "annal:type_id": "Entity",
+  "prov:wasGeneratedBy_r": [],
+  "provx:entity_uri": "duri:2015-06-02T14:31:49Z:file:///home/sebastian/Dropbox/Semiodesk/Kunden/WSCAD/LicenseStarter/Icons.svg",
+  "prov:wasDerivedFrom_r": [],
+  "annal:id": "20150602T133149",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

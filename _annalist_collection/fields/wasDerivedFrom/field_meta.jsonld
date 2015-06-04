@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Derived from",
+  "rdfs:comment": "Reference to an entity from which the current entity was directly or indirectly derived.",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(was derived from - Entity)",
+  "annal:property_uri": "prov:wasDerivedFrom",
+  "annal:options_typeref": "Entity",
+  "annal:field_entity_type": "prov:Entity",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "prov:Entity",
+  "annal:field_render_type": "Enum_optional",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/_field/wasDerivedFrom/",
+  "annal:restrict_values": "",
+  "annal:id": "wasDerivedFrom",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

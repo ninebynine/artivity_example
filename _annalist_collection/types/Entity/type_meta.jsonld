@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "PROV entity",
+  "rdfs:comment": "A prov:Entity is a physical, digital, conceptual, or other kind of thing with some fixed aspects; entities may be real or imaginary.\r\n\r\n(I.e. anything about which provenance may be expressed.)",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:uri": "prov:Entity",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/_type/Entity/",
+  "annal:type_list": "Entity_list",
+  "annal:id": "Entity",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "Entity_view"
+}

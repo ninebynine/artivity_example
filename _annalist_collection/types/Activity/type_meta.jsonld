@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "PROV activity",
+  "rdfs:comment": "An prov:Activity is something that occurs over a period of time and acts upon or with entities; it may include consuming, processing, transforming, modifying, relocating, using, or generating entities.\r\n",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:uri": "prov:Activity",
+  "annal:url": "/annalist/c/Climate_data_provenance/d/_type/Activity/",
+  "annal:type_list": "Activity_list",
+  "annal:id": "Activity",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "Activity_view"
+}

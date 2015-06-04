@@ -1,0 +1,27 @@
+{
+  "rdfs:label": "List agents",
+  "rdfs:comment": "List of defined PROV Agents",
+  "annal:default_view": "Default_view",
+  "annal:default_type": "Agent",
+  "annal:record_type": "prov:Agent",
+  "annal:type_id": "_list",
+  "annal:list_entity_selector": "prov:Agent in [@type]",
+  "annal:display_type": "List",
+  "annal:list_fields": [
+    {
+      "annal:field_placement": "small:0,3",
+      "annal:field_id": "Entity_id"
+    },
+    {
+      "annal:field_placement": "small:3,9",
+      "annal:field_id": "Entity_label"
+    }
+  ],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/_list/Agent_list/",
+  "annal:id": "Agent_list",
+  "@id": "./",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:type": "annal:List"
+}

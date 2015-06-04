@@ -1,0 +1,22 @@
+{
+  "rdfs:label": "Begin edit at 2015-06-02 14:31:59",
+  "rdfs:comment": "Begin edit at 2015-06-02 14:31:59",
+  "prov:wasAssociatedWith": "inkscape_desktop",
+  "annal:type_id": "Activity",
+  "prov:endedAtTime": "2015-06-02T14:31:59Z",
+  "prov:hadPlan": "",
+  "@type": [
+    "prov:Activity",
+    "annal:EntityData"
+  ],
+  "art:Plan_detail": "",
+  "prov:startedAtTime": "2015-06-02T14:31:59Z",
+  "annal:id": "20150602T143159",
+  "@id": "./",
+  "prov:used_r": [
+    {
+      "prov:used": ""
+    }
+  ],
+  "annal:type": "annal:EntityData"
+}

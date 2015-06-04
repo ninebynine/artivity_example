@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Artivity example data for JISC RDS-CREAM project",
+  "rdfs:comment": "",
+  "annal:type_id": "_collection",
+  "annal:default_list": "Entity_list",
+  "annal:id": "artivity_example",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}

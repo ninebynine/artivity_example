@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Acted on behalf of (group)",
+  "rdfs:comment": "",
+  "annal:type_id": "_group",
+  "annal:record_type": "prov:Agent",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "actedOnBehalfOf"
+    }
+  ],
+  "annal:url": "/annalist/c/Climate_data_provenance/d/_group/actedOnBehalfOf/",
+  "annal:id": "actedOnBehalfOf",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}
