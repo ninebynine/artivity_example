@@ -5,13 +5,13 @@
   "prov:specialization_of": "file:///home/sebastian/Dropbox/Semiodesk/Kunden/WSCAD/LicenseStarter/Icons.svg",
   "annal:type_id": "Entity",
   "prov:wasGeneratedBy_r": [],
-  "provx:entity_uri": "duri:2015-06-02T14:31:49Z:file:///home/sebastian/Dropbox/Semiodesk/Kunden/WSCAD/LicenseStarter/Icons.svg",
-  "prov:wasDerivedFrom_r": [],
-  "annal:id": "20150602T133149",
-  "@id": "./",
   "@type": [
     "prov:Entity",
     "annal:EntityData"
   ],
+  "prov:wasDerivedFrom_r": [],
+  "annal:id": "20150602T133149",
+  "@id": "./",
+  "provx:entity_uri": "duri:2015-06-02T14:31:49Z:file:///home/sebastian/Dropbox/Semiodesk/Kunden/WSCAD/LicenseStarter/Icons.svg",
   "annal:type": "annal:EntityData"
 }
